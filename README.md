@@ -1,8 +1,5 @@
-Here is the full content for your `README.md` file, crafted to be professional, well-documented, and attractive to a company with a job description like the one provided. It highlights key skills and project components in a clear, organized manner.
 
------
-
-### **Enterprise AI Knowledge Companion with Smart Search**
+### ****Enterprise AI Knowledge Companion with Smart Search****
 
 This project is a full-stack, production-ready RAG (Retrieval-Augmented Generation) pipeline designed to function as an intelligent AI companion for searching and interacting with internal company documents. It demonstrates core skills in building agentic AI systems and leveraging LLMs to deliver scalable, real-world solutions.
 
@@ -95,3 +92,4 @@ This project lays the foundation for a more complex and scalable system. Planned
   * **Role-Based Access Control**: Designing and integrating a JWT-based authentication system to serve different documents and features based on user roles.
   * **Document Summarization**: Adding a feature to generate concise summaries of documents or policies.
   * **Multi-Modal Support**: Expanding the system to handle documents with images and tables using tools like `pytesseract` or multi-modal LLMs.
+
